@@ -29,7 +29,8 @@ Google Fonts (Inter)
 
 ## Screenshot
 
-[to be inserted here]
+![Dashboard Screenshot](images/dash_board_preview.png)
+
 
 ## Possible Enhancements
 Toggle between light and dark themes
